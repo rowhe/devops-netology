@@ -1,20 +1,10 @@
 #devops-netology
-Учебный репозиторий для курса DevOps-15
+- Учебный репозиторий для курса DevOps-15
 
-#Файл /terraform/.gitignore
+ДЗ 2.3
 
-Будут проигнорированы следующие шаблоны:
+##Ссылка на ветвления
+- https://github.com/rowhe/devops-netology/network
 
-#Локальные директории .terraform 
-
-# Файлы содержащие .tfstate 
-
-#Файлы crash.log
-
-#Все файлы содержащие в конце названия tfvars
-
-# Также все файлы
-override.tf, override.tf.json, *_override.tf и *_override.tf.json
-
-
-# Файлы командной строки .terraformrc и terraform.rc
+##Ссылка на репозиторий
+- https://github.com/rowhe/devops-netology.git
